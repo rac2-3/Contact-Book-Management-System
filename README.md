@@ -88,11 +88,12 @@ Welcome to Contact Book Manager
 3. Search Contact
 4. Update Contact
 5. Delete Contact
-6.Export to JSON
-7.Load from JSON
-8.Exit
+6. Export to JSON
+7. Load from JSON
+8. Exit
 
 Example:
+
 Enter Name: Raj
 Enter Phone Number: 9876543210
 Enter Email Address: raj@gmail.com
