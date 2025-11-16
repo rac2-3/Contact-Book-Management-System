@@ -93,10 +93,11 @@ Welcome to Contact Book Manager
 8. Exit
 
 Example:
+Enter Name:  Raj
 
-Enter Name: Raj
-Enter Phone Number: 9876543210
-Enter Email Address: raj@gmail.com
+Enter Phone Number:  9876543210
+
+Enter Email Address:  raj@gmail.com
 
 Contact 'Raj' added successfully!
 
