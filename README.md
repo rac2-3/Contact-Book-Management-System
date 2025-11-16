@@ -51,6 +51,7 @@ The program allows users to add, view, search, update, and delete contact inform
 ##  Folder Structure
 
 contact_book/
+
 │
 ├── contact_manager.py
 
