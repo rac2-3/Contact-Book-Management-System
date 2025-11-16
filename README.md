@@ -50,3 +50,70 @@ The program allows users to add, view, search, update, and delete contact inform
 
 ##  Folder Structure
 
+contact_book/
+│
+├── contact_manager.py
+├── contacts.csv
+├── contacts.json
+├── error_log.txt
+├── README.md
+└── screenshots/ 
+
+
+---
+
+## 🛠 How to Run the Program
+
+### **1. Make sure Python is installed**
+Run:
+
+### **2. Run the program**
+
+### **3. Choose any option from the menu**
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6.Export to JSON
+7.Load from JSON
+8.Exit
+
+---
+
+##  Sample Output
+Welcome to Contact Book Manager
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6.Export to JSON
+7.Load from JSON
+8.Exit
+
+Example:
+Enter Name: Raj
+Enter Phone Number: 9876543210
+Enter Email Address: raj@gmail.com
+
+Contact 'Raj' added successfully!
+
+
+---
+
+## Notes
+
+- `contacts.csv` is automatically created after adding contacts.  
+- `contacts.json` is created when exporting via option 6.  
+- `error_log.txt` is created only when an error occurs (Bonus Task).  
+- This project is created individually as per assignment requirements.
+
+---
+
+##  Academic Integrity
+This project is prepared by **Raj Tilak Singh** for Assignment 2 of **MCA (AI & ML)**.  
+All code is original and written for educational purposes only.
+
+---
+
