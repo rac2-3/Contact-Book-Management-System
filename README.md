@@ -53,12 +53,17 @@ The program allows users to add, view, search, update, and delete contact inform
 contact_book/
 
 │
+
 ├── contact_manager.py
 
 ├── contacts.csv
+
 ├── contacts.json
+
 ├── error_log.txt
+
 ├── README.md
+
 └── screenshots/ 
 
 
